@@ -20,3 +20,5 @@ dist/
 # Configuración de IDEs
 .vscode/
 .idea/
+
+.package.json/
